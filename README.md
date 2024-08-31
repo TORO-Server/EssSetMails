@@ -2,6 +2,10 @@
 
 Minecraftのプラグイン"Essentialsx"のメールの数を指定した数にするためのスクリプト
 
+この画像のように メールの数を 114514 にするためだけに作られました。
+
+![sample](./.github/assets/sample.png)
+
 ## 使い方
 
 下記のコマンドを実行すると result.yml が生成されます。
